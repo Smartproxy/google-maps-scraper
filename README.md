@@ -205,7 +205,7 @@ driver.quit()
 
 ## The full Google Maps scraping code
 
-Get the full script from the google-maps-scraper.py file
+Get the full script from the [google-maps-scraper.py](https://github.com/Smartproxy/google-maps-scraper/blob/main/google-maps-scraper.py) file.
 
 After running this script, the terminal will show you if it had to consent to cookies, where it saved a screenshot of the browser window, how many places were extracted, and the location where the CSV file with all the information was saved.
 
